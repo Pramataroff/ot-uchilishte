@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HomeWork\\Lists\\Lists\\ReversedSumList\\ReversedSumList.csproj": {}
+    "C:\\Milenski\\mishoproject\\ReversedSumList\\ReversedSumList.csproj": {}
   },
   "projects": {
-    "D:\\HomeWork\\Lists\\Lists\\ReversedSumList\\ReversedSumList.csproj": {
+    "C:\\Milenski\\mishoproject\\ReversedSumList\\ReversedSumList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HomeWork\\Lists\\Lists\\ReversedSumList\\ReversedSumList.csproj",
+        "projectUniqueName": "C:\\Milenski\\mishoproject\\ReversedSumList\\ReversedSumList.csproj",
         "projectName": "ReversedSumList",
-        "projectPath": "D:\\HomeWork\\Lists\\Lists\\ReversedSumList\\ReversedSumList.csproj",
-        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
-        "outputPath": "D:\\HomeWork\\Lists\\Lists\\ReversedSumList\\obj\\",
+        "projectPath": "C:\\Milenski\\mishoproject\\ReversedSumList\\ReversedSumList.csproj",
+        "packagesPath": "C:\\Users\\STUDENTS-1212-5\\.nuget\\packages\\",
+        "outputPath": "C:\\Milenski\\mishoproject\\ReversedSumList\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\STUDENTS-1212-5\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
